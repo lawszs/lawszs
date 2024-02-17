@@ -1,5 +1,5 @@
-```py
+```java
 ┍ laws@kali~[~/social]
 ┗ $ guns.lol/laws
- ┗ $ 1ggv. discord```
+ ┗ $ discord [~] 1ggv.```
  
