@@ -2,7 +2,7 @@
 ┌──(laws@kali)~[~/social]
 └─ $ [ guns.lol/laws ]
  └─ $ [ discord [+] 1ggv. ]
-   └─ $ [ .gg/courtboost ]
+   └─ $ [ .gg/prayerbot ]
      └─ $ id [~] 909501793111789670
 ```
 
