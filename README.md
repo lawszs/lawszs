@@ -1,9 +1,9 @@
 ```python
 ┌──(laws@kali)~[~/social]
-└─ $ [ guns.lol/laws ]
- └─ $ [ discord [+] 1ggv. ]
-   └─ $ [ .gg/prayerbot ]
-     └─ $ id [~] 909501793111789670
+└─ $ [ guns.lol/1dot ]
+ └─ $ [ discord [+] 5vlo. ]
+   └─ $ [ .skip ]
+     └─ $ id [~] 1208490323622494293
 ```
 
 
