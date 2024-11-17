@@ -1,6 +1,6 @@
 ```python
 ┌──(laws@kali)~[~/social]
-└─ $ [ guns.lol/1dot ]
+└─ $ [ guns.lol/3o3 ]
  └─ $ [ discord [+] 5vlo. ]
    └─ $ [ .skip ]
      └─ $ id [~] 1208490323622494293
