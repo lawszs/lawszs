@@ -1,6 +1,6 @@
 ```python
 ┌──(ltecoin@kali)~[~/social]
-└─ $ [ ammo.lol/lte ]
+└─ $ [ hellocsir.xyz ]
  └─ $ [ discord [+] 5vlo. ]
    └─ $ [ .skip ]
      └─ $ id [~] 1208490323622494293
